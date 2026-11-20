@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "project") (type "Legacy") (uri "C:/dev/git/esp32-geiger-counter/hardware/kicad/lib/geiger.lib") (options "") (descr ""))
+	(lib (name "geiger-cache") (type "Legacy") (uri "C:/Users/Trung/Downloads/esp32-geiger-counter-master/hardware/kicad/project/geiger/geiger-cache.lib") (options "") (descr "Thư viện bộ nhớ đệm dự án cũ"))
+)

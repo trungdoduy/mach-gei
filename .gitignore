@@ -1,0 +1,17 @@
+# PlatformIO build artifacts & cache
+**/.pio/
+**/.vscode/
+**/.idea/
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# OS specific files
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
